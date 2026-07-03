@@ -48,7 +48,7 @@ LTI-Observer-Comparison/
 │   ├── observers/           # One module per observer type
 │   └── utils/                # Metrics and plotting helpers
 ├── notebooks/
-│   └── observer_analysis.ipynb  # Original exploratory notebook
+│   └── observer_analysis.py  # Original exploratory notebook
 ├── experiments/               # Numbered, runnable comparison scripts
 ├── app/
 │   ├── streamlit_app.py      # Interactive dashboard
