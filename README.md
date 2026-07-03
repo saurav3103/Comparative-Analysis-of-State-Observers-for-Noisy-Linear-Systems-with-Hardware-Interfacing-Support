@@ -53,7 +53,6 @@ LTI-Observer-Comparison/
 ├── app/
 │   ├── streamlit_app.py      # Interactive dashboard
 │   └── serial_interface.py   # Optional hardware-in-loop mode (Arduino/serial sensor input)
-└── results/
 ```
 
 ## Getting Started
